@@ -27,7 +27,7 @@ Para cada semestre, do 1º ao 6º, iremos utilizar este template para documentar
 incrementalmente.
 
 # 1. Introdução
-(Contextualização, Justificativa (porquê?)
+Nosso cliente relatou dificuldades no processo de cadastro de usuários e no registro de dados e exercícios realizados em sua academia de natação, destacando falhas que impactam a organização das informações, o acompanhamento do desempenho dos alunos e a eficiência na gestão das atividades. Além disso, foram identificadas inconsistências no armazenamento dos dados e limitações no sistema atual, o que compromete a confiabilidade das informações e dificulta a tomada de decisões administrativas e pedagógicas.
 
 ## • Objetivos
 
