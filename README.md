@@ -33,8 +33,23 @@ Nosso cliente relatou dificuldades no processo de cadastro de usuários e no reg
 Desenvolver uma solução eficiente para otimizar o processo de cadastro e o registro de dados e exercícios em uma academia de natação, garantindo maior organização, confiabilidade e facilidade de acesso às informações.
 
 ## • Metodologia
-(Que métodos, tecnologias, modelos de processo, ferramentas irá utilizar?
-Responde à pergunta: Como? Com o que? Onde? Quando?)
+O projeto será desenvolvido por meio de uma abordagem estruturada e incremental, permitindo a evolução contínua da solução ao longo do tempo.
+
+Como?
+O sistema será desenvolvido utilizando um modelo de processo incremental, dividido em etapas como levantamento de requisitos, modelagem, desenvolvimento, testes e validação. Cada fase permitirá melhorias progressivas no sistema.
+
+Com o quê?
+Serão utilizadas linguagens de programação adequadas para desenvolvimento web ou desktop, além de um banco de dados para armazenamento das informações. Também serão utilizadas ferramentas como:
+
+Figma para prototipação
+Git e GitHub para versionamento de código
+Ferramentas de modelagem (diagramas UML)
+
+Onde?
+O desenvolvimento será realizado em ambiente computacional, utilizando computadores e softwares específicos, com possibilidade de testes em ambiente local e posteriormente em ambiente online.
+
+Quando?
+O projeto será desenvolvido ao longo do semestre, seguindo um cronograma dividido por etapas, desde o planejamento até a entrega final, com atualizações incrementais conforme o progresso.
 
 # 2. Requisitos
 
