@@ -30,6 +30,7 @@ incrementalmente.
 Nosso cliente relatou dificuldades no processo de cadastro de usuários e no registro de dados e exercícios realizados em sua academia de natação, destacando falhas que impactam a organização das informações, o acompanhamento do desempenho dos alunos e a eficiência na gestão das atividades. Além disso, foram identificadas inconsistências no armazenamento dos dados e limitações no sistema atual, o que compromete a confiabilidade das informações e dificulta a tomada de decisões administrativas e pedagógicas.
 
 ## • Objetivos
+Desenvolver uma solução eficiente para otimizar o processo de cadastro e o registro de dados e exercícios em uma academia de natação, garantindo maior organização, confiabilidade e facilidade de acesso às informações.
 
 ## • Metodologia
 (Que métodos, tecnologias, modelos de processo, ferramentas irá utilizar?
