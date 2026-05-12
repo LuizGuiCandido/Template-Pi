@@ -55,48 +55,67 @@ O projeto será desenvolvido ao longo do semestre, seguindo um cronograma dividi
 
 RF1 – Seção Hero (Apresentação Inicial)
  O sistema deve apresentar uma seção inicial (hero) na página principal, contendo uma frase de destaque, elementos visuais e um botão para navegação no site.
+
 RF2 – Informações da Empresa
  O sistema deve apresentar informações institucionais da academia, incluindo missão, visão e valores.
+
 RF3 – Equipe
  O sistema deve apresentar informações sobre a equipe da academia, incluindo nome, função e descrição dos profissionais.
+
 RF4 – História da Empresa
  O sistema deve apresentar a história da academia, descrevendo sua origem e evolução.
+
 RF5 – Serviços da Academia
  O sistema deve apresentar uma seção com a listagem dos serviços oferecidos pela academia.
+
 RF6 – Detalhes dos Serviços
  O sistema deve exibir, para cada serviço, a descrição, o valor e o tipo de contrato (semanal, mensal ou anual).
+
 RF7 – Cases de Sucesso
  O sistema deve apresentar casos de sucesso de alunos, demonstrando resultados alcançados.
+
 RF8 – Blog / Notícias
  O sistema deve disponibilizar uma seção para publicação de conteúdos informativos.
+
 RF9 – Redes Sociais
  O sistema deve disponibilizar links de acesso para as redes sociais da academia.
 
 RF10 – Login (Modelo)
  O sistema deve apresentar uma interface de login, mesmo sem funcionalidade ativa.
+
 RF11 – Cadastro (Modelo)
  O sistema deve apresentar uma interface de cadastro, mesmo sem funcionalidade ativa.
+
 RF12 – Localização da Academia
  O sistema deve apresentar um mapa com a localização da academia.
+
 RF13 – Navegação
  O sistema deve permitir a navegação entre as páginas e seções do site.
+
 RF14 – Perguntas Frequentes (FAQ)
  O sistema deve apresentar uma seção de perguntas frequentes com respostas sobre os serviços da academia.
+
 RF15 – Contato
  O sistema deve apresentar um formulário de contato para preenchimento de nome, idade e mensagem pelo usuário.
 
 RNF1 – Usabilidade
  O sistema deve possuir interface simples, clara e de fácil navegação.
+
 RNF2 – Responsividade
  O sistema deve ser compatível com diferentes dispositivos, como celulares, tablets e computadores.
+
 RNF3 – Desempenho
  O sistema deve carregar as páginas em tempo adequado, evitando demora para o usuário.
+
 RNF4 – Disponibilidade
  O sistema deve estar disponível para acesso a qualquer momento, com poucas interrupções.
+
 RNF5 – Segurança
  O sistema deve garantir a proteção dos dados informados pelos usuários no formulário.
+
 RNF6 – Compatibilidade
  O sistema deve funcionar nos principais navegadores (Chrome, Edge, Firefox, etc.).
+
 RNF7 – Manutenibilidade
  O sistema deve ser desenvolvido de forma organizada para facilitar futuras alterações.
 
